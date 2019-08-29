@@ -1,0 +1,4 @@
+    
+# Built application files
+*node_modules
+*.env
